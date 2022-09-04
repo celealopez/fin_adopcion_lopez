@@ -6,7 +6,7 @@
 
 p {
   padding: 1rem;
-  width: 100%;
+  
   margin: 2rem;
   font-size: 1.5rem;
 }
@@ -19,6 +19,7 @@ main {
 }
 body {
   background-image: url(../img/fondo.webp);
+  background-size: 100%;
   background-color: aquamarine;
 }
 .ul2 {
